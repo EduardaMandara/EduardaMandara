@@ -41,8 +41,10 @@
   <a href="https://discord.gg/#6191" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
 </div>
 
- ##
+##
   
 <div align='center'>
-  <a height="150em" href="https://github.com/EduardaMandara"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardaMandara&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+  <a height="150em" href="https://github.com/EduardaMandara">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardaMandara&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" />
+  </a>
 </div>
