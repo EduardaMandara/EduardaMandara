@@ -21,7 +21,14 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardamandara&layout=compact&langs_count=7&theme=calm"/>
 </div>
 
-##
+<div align='center'>
+  <a height="150em" href="https://github.com/EduardaMandara">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=EduardaMandara&theme=calm&date_format=j%20M%5B%20Y%5D"
+  </a>
+</div>
+  
+
+  
   
 <div align="left">
   <h2> Technologies </h2>
@@ -33,7 +40,7 @@
   <img align="center" alt="Duda-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
-##
+
 
 <div align="left">  
   <h2> Social Media </h2>
@@ -44,10 +51,3 @@
   <a href="https://discord.gg/#6191" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
 </div>
 
-##
-  
-<div align='center'>
-  <a height="100em" href="https://github.com/EduardaMandara">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=EduardaMandara&theme=calm&date_format=j%20M%5B%20Y%5D"
-  </a>
-</div>
